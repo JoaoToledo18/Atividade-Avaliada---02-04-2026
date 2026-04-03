@@ -1,5 +1,4 @@
 # Atividade 02/04/2026 — Engenharia de Software
-**Sistema Integrado de Gestão de Farmácia — MVP Definido pelo Estudante**
 
 Aluno: *João Vitor Toledo da Silva*  
 RA: *24000550*  
